@@ -28,10 +28,10 @@ This project implements a comprehensive Security Orchestration, Automation, and 
 6. **Notification:** The Shuffle can also send notifications to SOC analysts via email or other communication channels.
 
 ### Installation and Configuration
-* [**Wazuh**]()
-* [**TheHive**]()
-* [**Sysmon**]()
-* [**Shuffle**]()
+* [**Wazuh**](https://github.com/xerone2/SOC-Automation/blob/main/Wazuh-Installation.md)
+* [**TheHive**](https://github.com/xerone2/SOC-Automation/blob/main/TheHive-Installation.md)
+* [**Sysmon**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU5Zak9XZ29HN3JqT1pTY29KdTI1b3pnakhtQXxBQ3Jtc0ttTXlzNlZmdWtBTkdRUlNhb0g3SEtSdUFNNy05ZlEzNE1FNVFHQ0NnZC1TWEEtdEphcFZ6UG9QRGtudUd5bjl2aTFzWV9SVGo3dWMzY2h2QmpVU2loTDBqdmwydXJTUnFpTW5sQUJtd213LUxVY1NXbw&q=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fsysinternals%2Fdownloads%2Fsysmon&v=uJ7pv6blyog)
+* [**Shuffle**](https://shuffler.io/)
 
 ### Additional Considerations
 * **Rule Creation:** Develop and maintain effective Wazuh rules to detect a wide range of security threats.
