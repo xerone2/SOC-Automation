@@ -11,7 +11,7 @@ This project implements a comprehensive Security Orchestration, Automation, and 
 * **Sysmon:** A system monitoring tool that provides detailed information about system processes, network connections, and file activity.
 
 
-![Automation Workflow](main/Automation-Diagram.png)
+![Automation Workflow](https://github.com/xerone2/SOC-Automation/blob/main/Automation-Diagram.png)
 
 
 
