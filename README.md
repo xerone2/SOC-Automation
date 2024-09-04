@@ -11,7 +11,7 @@ This project implements a comprehensive Security Orchestration, Automation, and 
 * **Sysmon:** A system monitoring tool that provides detailed information about system processes, network connections, and file activity.
 
 
-![Automation Workflow](https://drive.google.com/file/d/133iV6eumLN1j8qNiPyQJYUT4FOwbWMzd/view?usp=sharing)
+![Automation Workflow](images/Automation-Diagram)
 
 
 
