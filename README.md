@@ -4,7 +4,7 @@
 This project implements a comprehensive Security Orchestration, Automation, and Response (SOAR) solution, designed to streamline and automate security operations. By integrating a suite of tools, including Wazuh, TheHive, Shuffle, and Sysmon, the system provides efficient threat detection, incident response, and investigation capabilities.
 
 ### Tools Used
-* **Wazuh:** An open-source security monitoring solution that provides real-time alerting, intrusion detection, and log analysis.
+* **![Wazuh](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AWazuh_blue.png&psig=AOvVaw0CTsvfNnXgS1Lfrtc0Rm-n&ust=1725608561092000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCKDMuY2nq4gDFQAAAAAdAAAAABAE):** An open-source security monitoring solution that provides real-time alerting, intrusion detection, and log analysis.
 * **DigitalOcean:** A cloud computing platform used to host the Wazuh manager and TheHive.
 * **TheHive:** A security incident response platform that allows for efficient incident management, investigation, and reporting.
 * **Shuffle:** A tool designed to enrich Indicators of Compromise (IOCs) using OSINT sources and trigger appropriate actions based on predefined rules.
